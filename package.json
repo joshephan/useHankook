@@ -1,0 +1,47 @@
+{
+  "name": "usehankook",
+  "version": "0.0.1",
+  "description": "versatile react hook for frontend developers",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshephan/useHankook.git"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    }
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "react-hooks"
+  ],
+  "files": [
+    "dist",
+    "src"
+  ],
+  "author": "Han Sang Hoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshephan/useHankook/issues"
+  },
+  "homepage": "https://github.com/joshephan/useHankook#readme",
+  "dependencies": {
+    "@types/react": "^19.1.7",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "typescript": "^5.8.3"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
