@@ -1,5 +1,7 @@
 # useHankook
 
+![태극기](https://i.namu.wiki/i/8rsMb3qGsWtCcwYPFtCGF3d9cPnG08hnxcm75xKbQYZLTVzus7iWz9l36Vuq3uWYSJcwxTQ2z7F6DMvq-W4m3NkswFU6vBLkZLk9psxywZrR3Y7aFoWmmNHMsu7KBcMPooZzCd6D-NBqA6LhmIJSuw.svg)
+
 A collection of versatile react hooks for modern frontend programmers from [Han Sang Hoon](https://github.com/joshephan).
 
 한국어로 작성된 React 커스텀 훅 모음집입니다. 모던 프론트엔드 개발에 필요한 다양한 기능을 제공합니다.
@@ -16,7 +18,7 @@ A collection of versatile react hooks for modern frontend programmers from [Han 
 ## 설치
 
 ```bash
-npm i useHankook
+npm i usehankook
 ```
 
 ## Hooks

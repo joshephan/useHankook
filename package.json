@@ -1,6 +1,6 @@
 {
   "name": "usehankook",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "versatile react hook for frontend developers",
   "main": "dist/index.js",
   "module": "dist/index.js",
